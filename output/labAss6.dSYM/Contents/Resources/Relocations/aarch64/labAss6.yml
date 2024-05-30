@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gauravsunthwal/Desktop/coding/C:C++/output/labAss6'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _factorialWithoutRecursion, symObjAddr: 0x0, symBinAddr: 0x100003D94, symSize: 0x64 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _factorialWithoutRecursion, symObjAddr: 0x0, symBinAddr: 0x100003D94, symSize: 0x64 }
+  - { offsetInCU: 0x93, offset: 0x93, size: 0x8, addend: 0x0, symName: _factorialWithRecursion, symObjAddr: 0x64, symBinAddr: 0x100003DF8, symSize: 0x78 }
+  - { offsetInCU: 0xBB, offset: 0xBB, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xDC, symBinAddr: 0x100003E70, symSize: 0xAC }
+...
